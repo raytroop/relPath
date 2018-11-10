@@ -17,5 +17,6 @@ if __name__ == "__main__" and __package__ is None:
 #### related work
 * [module search path - Home directory](ModuleSearchPath.md)
 * To run script without relative imports, only absolute imports. [**sys.path.insert** is enough](work/README.md)
-**credits:**
+
+#### credits:
 [fizyr/keras-retinanet](https://github.com/fizyr/keras-retinanet/blob/a0d99cbb44b1eaa909c34c88833d501a83322767/keras_retinanet/bin/train.py#L28-L32)
