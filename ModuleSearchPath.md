@@ -61,7 +61,7 @@ if __name__ == '__main__':
 `work/pkg/__init__.py`:
 ```python
 ```
-####**run**:
+#### **run**:
 1. import module share the same `home directory` i.e.`sys.path[0]` with main program
 ```bash
 $ python work/main.py
@@ -85,7 +85,7 @@ $ python work/pkg/ml.py
 ```
 <br>
 
-####reference:
+#### reference:
 - Learning Python 5th edition
     - Chapter 22: Modules: The Big Picture
         - The Module Search Path
