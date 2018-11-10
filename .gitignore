@@ -1,3 +1,5 @@
 __pycache__
 keras_retinanet/bin/__pycache__
 keras_retinanet/utils/__pycache__
+work/rsna/__pycache__
+work/rsna/datasets/__pycache__
