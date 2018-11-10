@@ -14,5 +14,8 @@ if __name__ == "__main__" and __package__ is None:
 ```
 > **Note that this boilerplate is sufficient only if the top level package is already accessible via `sys.path`.** Additional code that manipulates sys.path would be needed in order for direct execution to work without the top level package already being importable.
 
+#### related work
+* [module search path - Home directory](ModuleSearchPath.md)
+
 **credits:**
 [fizyr/keras-retinanet](https://github.com/fizyr/keras-retinanet/blob/a0d99cbb44b1eaa909c34c88833d501a83322767/keras_retinanet/bin/train.py#L28-L32)

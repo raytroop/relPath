@@ -79,3 +79,9 @@ $ python work/pkg/ml.py
 ```bash
 ['~/work/pkg', '/home/software/miniconda3/lib/python36.zip', '/home/software/miniconda3/lib/python3.6', '/home/software/miniconda3/lib/python3.6/lib-dynload', '/home/software/miniconda3/lib/python3.6/site-packages']
 ```
+<br>
+
+####reference:
+- Learning Python 5th edition
+    - Chapter 22: Modules: The Big Picture
+        - The Module Search Path
