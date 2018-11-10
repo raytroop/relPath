@@ -1,3 +1,5 @@
+### The Module Search Path - The home directory of the program
+
 1. The home directory of the program
 2. PYTHONPATH directories (if set)
 3. Standard library directories
@@ -17,7 +19,9 @@ The meaning of this entry depends on how you are running the code.
 - When you’re running a program, this entry is the **directory containing your program’s top-level script file**.
 - When you’re working interactively, this entry is the directory in which you are
 working (i.e., the current working directory).
-- imported module inheritate the **same** `Home directory`, i.e. **program’s top-level script file**.
+<br>
+
+imported module inherite the **same** `Home directory`, i.e. **directory containing your program’s top-level script file**.
 
 #### one example
 project tree:
